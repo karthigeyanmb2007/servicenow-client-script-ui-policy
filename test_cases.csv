@@ -1,0 +1,6 @@
+Test ID,Test Case,Expected Result,Status
+TC01,Open Incident form,Information message is displayed,Planned
+TC02,Set State to Resolved,Close Code becomes mandatory,Planned
+TC03,Set State to Resolved,Close Notes becomes mandatory,Planned
+TC04,Change State away from Resolved,Resolution mandatory rule is removed,Planned
+TC05,Submit resolved incident without resolution data,Form requires mandatory fields,Planned
